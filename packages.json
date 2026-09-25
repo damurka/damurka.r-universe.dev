@@ -18,5 +18,13 @@
   {
     "package": "cd2030.pooled",
     "url": "https://github.com/damurka/cd2030.pooled"
+  },
+  {
+    "package": "khisr",
+    "url": "https://github.com/damurka/khisr"
+  },
+  {
+    "package": "kpp2019",
+    "url": "https://github.com/damurka/kpp2019"
   }
 ]
