@@ -1,0 +1,22 @@
+[
+  {
+    "package": "datasuite.ui",
+    "url": "https://github.com/damurka/datasuite.ui"
+  },
+  {
+    "package": "cd2030.core",
+    "url": "https://github.com/damurka/cd2030.core"
+  },
+  {
+    "package": "cd2030.rmncah",
+    "url": "https://github.com/damurka/cd2030.rmncah"
+  },
+  {
+    "package": "cd2030.vaxx",
+    "url": "https://github.com/damurka/cd2030.vaxx"
+  },
+  {
+    "package": "cd2030.pooled",
+    "url": "https://github.com/damurka/cd2030.pooled"
+  }
+]
