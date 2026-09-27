@@ -51,6 +51,8 @@ its entry; r-universe stops publishing it.
   (https://github.com/apps/r-universe), a push starts a build within minutes; without it, r-universe only notices on
   its periodic scan (about hourly, sometimes slower).
 - A push to this registry repo makes r-universe re-sync every package listed.
+  If a package push hasn't started a build after an hour or two (the scan sometimes stalls), push a small commit here
+  to force the re-sync.
 - The builds run as GitHub Actions in [r-universe/damurka](https://github.com/r-universe/damurka/actions) ("Build
   package", one run per package, named after the commit r-universe made there: `<package> <version>`).
 
