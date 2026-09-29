@@ -1,5 +1,9 @@
 [
   {
+    "package": "quire",
+    "url": "https://github.com/damurka/quire"
+  },
+  {
     "package": "datasuite.ui",
     "url": "https://github.com/damurka/datasuite.ui"
   },
