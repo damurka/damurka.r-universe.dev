@@ -5,15 +5,18 @@
   },
   {
     "package": "datasuite.ui",
-    "url": "https://github.com/damurka/datasuite.ui"
+    "url": "https://github.com/damurka/datasuite.ui",
+    "branch": "main"
   },
   {
     "package": "cd2030.core",
-    "url": "https://github.com/damurka/cd2030.core"
+    "url": "https://github.com/damurka/cd2030.core",
+    "branch": "main"
   },
   {
     "package": "cd2030.rmncah",
-    "url": "https://github.com/damurka/cd2030.rmncah"
+    "url": "https://github.com/damurka/cd2030.rmncah",
+    "branch": "main"
   },
   {
     "package": "cd2030.vaxx",
