@@ -1,7 +1,8 @@
 [
   {
     "package": "quire",
-    "url": "https://github.com/damurka/quire"
+    "url": "https://github.com/damurka/quire",
+    "branch": "main"
   },
   {
     "package": "datasuite.ui",
@@ -20,11 +21,13 @@
   },
   {
     "package": "cd2030.vaxx",
-    "url": "https://github.com/damurka/cd2030.vaxx"
+    "url": "https://github.com/damurka/cd2030.vaxx",
+    "branch": "main"
   },
   {
     "package": "cd2030.pooled",
-    "url": "https://github.com/damurka/cd2030.pooled"
+    "url": "https://github.com/damurka/cd2030.pooled",
+    "branch": "main"
   },
   {
     "package": "khisr",
